@@ -31,7 +31,7 @@ This project detects and monitors crowd density using computer vision. It provid
 2. Set environment variables in `.env` file
 
 3. Run:
-   crowed_managment_system.py
+   main.py
 
 ## Output
 
@@ -46,5 +46,3 @@ This project detects and monitors crowd density using computer vision. It provid
 Uses basic motion detection
 Mask detection is simulated
 
-* Uses basic motion detection
-* Mask detection is simulated
