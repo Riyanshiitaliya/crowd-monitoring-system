@@ -1,0 +1,7 @@
+.env
+twilio.env
+**pycache**/
+*.pyc
+output_counted.mp4
+crowd_log.csv
+yolov8n.pt
